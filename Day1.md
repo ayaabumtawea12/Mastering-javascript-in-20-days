@@ -56,7 +56,24 @@ x[0]=>a;
 "Aya".indexOf('ys')=>-1
 "Aya"+"12"==>Aya12
 "Aya".toLowerCase()=>"aya"
-================================================
+=======================================================================
+*****OPERATORS:
+(+) this op use to connect string or to calculate
+"aya" +"as"=>'ayaas'
+
+--Arthmetic operators (/ * - + )
+Sort by priority( (),/ * ,-+)
+(4+1)*2=>10
+1*6+4=>10
+
+******comparation operator(> greater,< smaller,>=,<=);
+5>4==>true
+
+
+
+
+
+=========================================================================
 Tasks-:
 task 1-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
 a should equal 25.
