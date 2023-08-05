@@ -43,7 +43,20 @@ console.log(x)=>null
 STRING:-
 "aya".length =>3
 " ".length =>1
-===============================================
+================================================
+***INDEX
+let x='aya'
+x[0]=>a;
+--------
+"Aya".indexOf('A')=>0
+"Aya".indexOf('Q')=>-1
+"Aya".includes('Ay')=>true
+"Aya".startWith('A')=>true
+"Aya".indexOf('Ay')=>0
+"Aya".indexOf('ys')=>-1
+"Aya"+"12"==>Aya12
+"Aya".toLowerCase()=>"aya"
+================================================
 Tasks-:
 task 1-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
 a should equal 25.
