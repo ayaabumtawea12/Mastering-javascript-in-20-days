@@ -13,6 +13,8 @@ document.querySelectorAll(".x")//return all elements with class name = x.
 ===============================================
 document.getElementsByClassName("x").length//return number of element who class name x
 document.getElementById("x").textContent//return text inside element with id=x; 
+document.getElementById("x").textContent="ahusu"//change text content
+document.getElementById("x").append="ahusu"//add text to text content
 ===============================================
 //Assigning and declaration  a variable
 let x;//declaration variable
