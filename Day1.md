@@ -44,6 +44,40 @@ STRING:-
 "aya".length =>3
 " ".length =>1
 ===============================================
+Tasks-:
+task 1-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
+a should equal 25.
+Waiting:b should equal 36.
+Waiting:c should equal 46.
+Waiting:You should use the *= operator for each variable.
+Waiting:You should not modify the code above the specified comment.
+
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10;
+
+====================================================
+task 2-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+myStr should have a single space character between the two strings.
+Passed:myStr should have a value of the string This is the first sentence. This is the second sentence.
+Passed:You should use the += operator to build myStr.
+
+let myStr="This is the first sentence.";
+myStr +=" This is the second sentence."
+==================================
+task 3-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
+
+secondToLastLetterOfLastName should be the letter c.
+Passed:You should use .length to get the second last letter.
+
+const lastName = "Lovelace";
+const secondToLastLetterOfLastName = lastName[lastName.length - 2];
+===============================================
 //Assigning and declaration  a variable
 let x;//declaration variable
 x="aya";//Assigning a variable
