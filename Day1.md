@@ -68,11 +68,17 @@ Sort by priority( (),/ * ,-+)
 
 ******comparation operator(> greater,< smaller,>=,<=);
 5>4==>true
-
-
-
-
-
+------------------
+== ,=== equals
+!==, != doesnt equal
+-------------------
+1==="1"=>false
+1=="1"=>true
+-------------------
+ AND(&&)
+ OR(||)
+ INCREMENT(++)
+ DECREMENT(--)
 =========================================================================
 Tasks-:
 task 1-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
