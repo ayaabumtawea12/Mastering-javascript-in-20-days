@@ -27,3 +27,14 @@ name =>variable || 'aya'=>value
 B)constant
 const x=3;//Declaring and Assigning variable 
 ==============================================================================
+*****Statement vs Expression
+let x=3;
+ let,x,3  are expressions
+ But if we take all of them together let x=3 then we have a statement
+Statement( function Statement,loop Statement , if statement)
+if( true ) {
+    let status = "you should know I mean it"; 
+
+    console.log(status)
+}//if statement
+
