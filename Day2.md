@@ -71,6 +71,58 @@ EX:- let x=[] //empty array || let x=['aya'] //single item
 EX:- let arr=['aya',2,'a',false];
 
 *****Array methods:-
+let arr=['a','b','d','c'];
+1-Sort 
+arr.sort() ==>['a','b,'c','d'];
+
+2-join
+arr.join('&');==>'a & b & c & d'
+
+3-concat
+arr.concat(['e','s','k']);==>['a','b','d','c','e','s','k'];
+
+--note
+arr.push(['f','h','l']);
+arr;==>['a','b','d','c',['f','h','l']]///nested array
+
+==***Mutating Data
+1-let x=['a','b','d'];
+x[1]='c'
+x==>['a','c','d'] ///mutable data Which data cne be edited
+
+2-let str="abc";
+str[0]='m';
+str;==>'abc'////imutable data Which data stays the same as string and other primitives data.
+
+***************
+let y=[1,2,3,4,5]
+y.concat([6,7,8]);
+y;==>[1,2,3,4,5,6,7,8]
+
+--immutable variable and mutable value
+const x=[4,6];
+let sum =x[0]+x[1];
+sum;==>10
+
+x[0]=6;
+
+let sum =x[0]+x[1];
+sum;==>12
+
+***array is mutable data can change and edited in values***
+***immutable data is the best***
+
+
+***VARIABLES AND ARRAY***
+let arr1=[1,2,3];
+arr1;==>[1,2,3]
+
+let arr2=arr1;
+arr1[0]=5;
+arr1;==>[5,2,3]
+arr2;==>[5,2,3]
+
+note:arr2 change also (arr2 ref to arr1 when arr1 change arr2 always equal arr1)
 
 
 ===========================================
