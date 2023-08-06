@@ -26,7 +26,7 @@ name =>variable || 'aya'=>value
 
 B)constant
 const x=3;//Declaring and Assigning variable 
-==============================================================================
+===============================================================================
 *****Statement vs Expression
 let x=3;
  let,x,3  are expressions
@@ -37,4 +37,4 @@ if( true ) {
 
     console.log(status)
 }//if statement
-
+==================================================================================
