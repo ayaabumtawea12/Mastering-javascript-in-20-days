@@ -126,7 +126,13 @@ note:arr2 change also (arr2 ref to arr1 when arr1 change arr2 always equal arr1)
 
 
 ===========================================
-
-
-
+*****OBJECT IN JS 
+let x={key:value};
+let obj={name:"aya",age:22};
+obj.name;==>'aya'//way to access value in object
+obj.name.sartWith('a')==>true
+obj.name='haya';//change value
+obj;==>{name:"haya",age:22};
+obj.major="Eng";//add probarity to object
+obj;//print object ==>{name:"aya",age:22,major:'Eng'};////object is mutible because it can be changed.
 
