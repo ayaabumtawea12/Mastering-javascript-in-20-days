@@ -34,9 +34,47 @@ let x=3;
 Statement( function Statement,loop Statement , if statement)
 if( true ) {
     let status = "you should know I mean it"; 
-
     console.log(status)
 }//if statement
 ==================================================================================
 *****Arrays:
+An array is a special variable, which can hold more than one value.
+let x=['aya','bana','sara']//array of string
+x.length ==>3
+x.indexOf('aya'); ==>0 //aya index of 0
+x[1]; ==>'bana'
+
+*we can modify any value in array
+x[1]="haya";
+x; =>['aya','haya','sara'];
+
+**delete last item in array
+let y=x.pop();
+x;==> ['aya','haya']
+y;=>sara
+
+***ADD item at the end of the array
+x.push("zain");
+x;=>['aya','bana','sara','zain']
+
+##note
+"aya"==["aya"];==>true
+"aya"===["aya"];==>false
+
+'aya'[0]=>'a'
+['aya'][0]==>'aya'
+
+-Array can be empty or contain single item 
+EX:- let x=[] //empty array || let x=['aya'] //single item 
+
+-Array can hold any type of item or mix
+EX:- let arr=['aya',2,'a',false];
+
+*****Array methods:-
+
+
+===========================================
+
+
+
 
