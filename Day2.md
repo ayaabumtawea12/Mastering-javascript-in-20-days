@@ -5,9 +5,10 @@ Operators:
 3+4 => 7
 
 ***VARIABLES:
-we create variable in js using (let)
+we create variable in js using
+A)(let)
 EX: let x=5;//we create variable x.
-=======================================
+===========================================================================
 1)Declaring a variable:-
 let name;//declare var name
 name; //undefined because you should assign this value
@@ -17,9 +18,12 @@ let name;
 name="aya";asign variable name
 name; =>"aya"
 let x=null;
-x; =>null
+x; =>null;
 
 Declaring and Assigning variable at once
 let name="aya";
+name =>variable || 'aya'=>value
 
-=========================================
+B)constant
+const x=3;//Declaring and Assigning variable 
+==============================================================================
