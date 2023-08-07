@@ -135,4 +135,55 @@ obj.name='haya';//change value
 obj;==>{name:"haya",age:22};
 obj.major="Eng";//add probarity to object
 obj;//print object ==>{name:"aya",age:22,major:'Eng'};////object is mutible because it can be changed.
+====================================================================================================================
+QUESTION #1
+Consider the following JavaScript code:
+
+let a = 0;
+let b = "0";
+let c = false;
+let d = "false";
+
+console.log(a == b);===>result is true because == compare value just. not with data type
+console.log(b === c);===>result is false because === compare value and data type
+console.log(!!d);===>result is false because (!d) Negation of d=>true and  (!!d) false.
+ 
+What will be the output of each console.log statement? You MUST explain WHY.
+===========================================================================================================================
+QUESTION #2:
+Consider the following JavaScript expression:
+
+console.log(4 + 5 * "7");
+What will be the output of this expression? You MUST explain the steps of evaluation taken by JS.
+the result is 39 (5*'7'=35)...35+4=39
+==============================================================================================================================
+QUESTION #3:
+Evaluate the following expression:
+
+let result = 5 + 2 * 3 - 1;
+What will be the output of this expression? You MUST explain the steps of evaluation taken by JS.
+result is 10(2*3=6 then 6-1=5 then 5+5=10) //priority to mul
+===============================================================================================================================
+QUESTION #4:
+Consider the following code:
+
+let x = 10;
+let y = '10';
+1-console.log(x == y);
+2-console.log(x === y);
+What will be the output of each console.log statement? You MUST explain WHY.
+1-result is true because 10=='10' equal in value
+2-result is false because 10==='10' equal in value but not equal in data type
+======================================================================================================================================
+QUESTION #5:
+Given the code below:
+
+let num = "15";
+let isPositive = true;
+let result = (num > 10 && isPositive) || num < 0;
+console.log(result);
+What is the value of result? You MUST explain the steps of evaluation taken by JS
+num > 10==>true ,isPositive==>true then true&&true==>true then  num <0 ==> false so true || false ==>true so the result is true
+=====================================================================================================================================
+
 
