@@ -76,5 +76,12 @@ typeof['a']==='array';False
 in HTML DOC we write js in <script> element.
 to make comments in js we use (//).
 
+let x={
+'name':"aya",
+}
+
+x['name'];==>'aya'.
+
+
 
 
