@@ -82,6 +82,124 @@ let x={
 
 x['name'];==>'aya'.
 
+==============================================================================
+QUESTION1:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
+function forecast(arr) {
+  // Only change code below this line
+  arr.slice(2, 4);
+  return arr;
+}
 
+// Only change code above this line
+console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+result==>['warm', 'sunny']
+==========================================================================================
+QUESTION2:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator
+Combine Arrays with the Spread Operator
+function spreadOut() {
+  let fragment = ['to', 'code'];
+  let sentence=["learning",...fragment,"is", "fun"]; // Change this line
+  return sentence;
+}
+
+console.log(spreadOut());
+===========================================================================================
+QUESTION3:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup
+// Setup
+const contacts = [
+  {
+    firstName: "Akira",
+    lastName: "Laine",
+    number: "0543236543",
+    likes: ["Pizza", "Coding", "Brownie Points"],
+  },
+  {
+    firstName: "Harry",
+    lastName: "Potter",
+    number: "0994372684",
+    likes: ["Hogwarts", "Magic", "Hagrid"],
+  },
+  {
+    firstName: "Sherlock",
+    lastName: "Holmes",
+    number: "0487345643",
+    likes: ["Intriguing Cases", "Violin"],
+  },
+  {
+    firstName: "Kristian",
+    lastName: "Vos",
+    number: "unknown",
+    likes: ["JavaScript", "Gaming", "Foxes"],
+  },
+];
+
+function lookUpProfile(name, prop) {
+  // Only change code below this line
+for(var i=0; i<contacts.length;i++){
+  if(contacts[i]['firstName'] === name)
+  {
+    if(contacts[i].hasOwnProperty(prop)){
+      return contacts[i][prop];
+    } else{
+      return 'No such property';
+    }
+  }
+}
+return 'No such contact';
+  // Only change code above this line
+}
+console.log(lookUpProfile("sherlock","number"));
+lookUpProfile("Akira", "likes");
+=============================================================================================
+QUESTION 4:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions
+function reusableFunction(){
+  console.log("Hi World")
+}
+
+reusableFunction();
+================================================================================================
+QUESTION 5:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
+// Setup
+let sum = 0;
+
+function addThree() {
+  sum = sum + 3;
+}
+
+addThree() 
+// Only change code below this line
+console.log(sum)
+
+function addFive(){
+  sum=sum+5;
+}
+// Only change code above this line
+
+ 
+var value=addFive();
+
+console.log(sum)
+==============================================================
+QUESTION 6:-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
+
+function seven(num)
+{
+  return num-7;
+}
+
+function timesFive (num){
+ return num*5;
+}
+
+console.log(seven(10))
+console.log(timesFive(5))
+console.log(timesFive(2))
+console.log(timesFive(0))
 
 
