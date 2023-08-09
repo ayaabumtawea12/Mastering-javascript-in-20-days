@@ -67,6 +67,38 @@ b.SetAttribute("name","asd");
 b.SetAttribute("disabled")//error
 b.SetAttribute("disabled"," ");
 b.removeAttribute("disabled")
+============================================
+Scope:-
+what variable and where we declare variable
+
+let x=4;
+function add(){
+x=5;
+}
+x;=>4
+add()
+x;==>5//when execute function x become 5
+============================================
+Events and handler:
+document.AddEventListener("click",() => {
+console.log("clocked");
+});
+
+document.AddEventListener("click",(event) => {
+console.log(event);
+
+h1.AddEventListener("mouseout",() => {
+ h1.textcontent="aya";
+});
+
+click,mouseover,mouseout,dbclick,.....
+=====================
+
+
+
+
+
+
 
 
 
