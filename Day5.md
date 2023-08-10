@@ -25,6 +25,49 @@ console.log(firstname+"is longer than"+lastname);
 }else{
 console.log(lastname+"is longer than"+ firstname);
 }
+==============================================
+function arr(array){
+if(array.length === 0){
+return true
+} else{
+return false;
+}
+
+arr([1,2,3])==>false
+===============================================
+if([])
+{
+console.log("true");
+}=====>true
+
+====================
+if("")
+{
+console.log("true");
+}else{
+console.log("false");
+}=====>false
+=========================
+if(null)
+{
+console.log("true");
+}else{
+console.log("false");
+}=====>false
+*****
+if(undefined)
+{
+console.log("true");
+}else{
+console.log("false");
+}=====>false
+============================
+
+
+
+
+
+
 
 
 
