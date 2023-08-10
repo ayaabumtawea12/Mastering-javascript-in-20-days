@@ -124,11 +124,66 @@ checkSign(10);
 ====================================
 Q2:
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array
+// The global variable
+const watchList = [
+  {
+  ........
+  }
+];
 
+// Only change code below this line
+let ratings=watchList.map(movie=>{
+  let refinedMovieData={};
+  refinedMovieData["title"]=movie["Title"];
+  refinedMovieData["rating"]=movie["imdbRating"]
+  return refinedMovieData;
+})
+ 
 
+// Only change code above this line
 
+console.log(JSON.stringify(ratings));
+================================================================
+Q3:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array
+=======
+Q4:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
+const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
+function golfScore(par, strokes) {
+  // Only change code below this line
+if(strokes === 1){
+return "Hole-in-one!";
+} else if(strokes <= par-2)
+{
+return "Eagle";
+} else if(strokes <= par-1)
+{
+return "Birdie";
+} else if(strokes === par)
+{
+return "Par";
+}
+else if(strokes === par+1)
+{
+return "Bogey";
+}
+else if(strokes === par+2)
+{
+return "Double Bogey";
+}
+else if(strokes >= par+3)
+{
+return "Go Home!";
+}
 
+  return "Change Me";
+  // Only change code above this line
+}
+
+golfScore(5, 4);
+==================
 
 
 
