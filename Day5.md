@@ -62,6 +62,42 @@ console.log("true");
 console.log("false");
 }=====>false
 ============================
+if("false")
+{
+console.log("true");
+}else{
+console.log("false");
+}=====>true
+================================**********************************===================================
+Logical:= and=> && **   or=>|| 
+Ternary operator:-   condition ? valueiftrue : valueiffalse  =>for write quick condition 
+if(x==3)                               
+{                        equevalent       x==3 ?"yes":"no";
+console.log("yes");
+}else{
+console.log("no");
+}
+}
+=================================================================================
+Loop:
+let number=[1,2,3];
+for(let x=0 ;x<number.length; x++)
+{
+console.log(number[x]);
+}
+
+for(let n of number){
+console.log(n) ==>1 2 3
+}
+======================================================================================
+for(let n of "aya"){
+console.log(n) ==>a y a
+}
+================================================================
+
+
+
+
 
 
 
