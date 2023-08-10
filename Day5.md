@@ -95,6 +95,38 @@ console.log(n) ==>a y a
 }
 ================================================================
 Map & Filter:-
+Map:=> calls a function on each item in an array to create a new array
+arrow function useful for this.
+
+const numbers = [1, 2, 3, 4];
+const doubled = numbers.map(item => item * 2);
+
+filter: =>method takes each element in an array and it applies a conditional statement against it
+
+const numbers = [1, 2, 3, 4];
+const evens = numbers.filter(item => item % 2 === 0);
+console.log(evens); // [2, 4]
+============================================================
+**Spread: we use it to put all item  from one array inside another array
+let x=[1,2,3]
+let y=[4,5,6]
+
+let w=[...x,...y]; equivelent  let z=x.concat(y);
+===========================================================
+
+Q1:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators
+function checkSign(num) {
+return num > 0 ? "positive" : num < 0 ? "negative" : "zero";
+}
+
+checkSign(10);
+====================================
+Q2:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array
+
+
+
 
 
 
