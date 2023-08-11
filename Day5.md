@@ -113,7 +113,24 @@ let y=[4,5,6]
 
 let w=[...x,...y]; equivelent  let z=x.concat(y);
 ===========================================================
+Array are like object?//true
+===========================================================
+While loop:-
+let x=[];
+while(x.length<5){
+x.push(Math.random());
+}
+================================
 
+
+
+
+
+
+
+
+
+===========================================================
 Q1:
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators
 function checkSign(num) {
