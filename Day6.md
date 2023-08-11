@@ -45,6 +45,10 @@ let [first,second,thired]="Aya Abu Mtawea".split("");
 first;=>"Aya"
 
 ***** "Aya Abu Mtawea".split("-");==>["Aya Abu Mtawea"];
+***** "Aya-Abu-Mtawea".split("-")join(" "); ==>"Aya Abu Mtawea"
+let [a,b]= "Aya Abu Mtawea".split("-");
+["aya","abu mtawea"].join(" ");==>"aya abu mtawea"
+["aya","abu mtawea"].reverse();==>["abu mtawea","aya"]
 =========================================
 
 
