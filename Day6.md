@@ -18,3 +18,41 @@ console.log(response);
 let body= await response.json();//return data ;
 fetch(" ").then((value)=>console.log(value));
 ===========================================================
+Destructing data:-
+Destructiong object & Array:
+is a funcy way of declaring multible variable at once.
+
+ const arr =[{name:"aya", age:22}]
+ let {name,age}=arr[0];//create var name and age.//destruct object
+ name==>aya
+ ============================================================
+ destruct array:
+ const [one,ewo,three]=[1,2,3];
+ console.log(one);//1
+ console.log(three);//3
+
+ let {title}=document;
+================================
+let [one, ...others]=[1,2,3,4];
+one=>1
+others=>[2,3,4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
