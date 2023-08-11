@@ -90,7 +90,13 @@ x;=>aya
 DEBUGGING:-
 Errors can (will) happen, every time you write some new computer code.
 all modern browsers have a built-in JavaScript debugger.
+Searching for (and fixing) errors in programming code is called code debugging.
 If your browser supports debugging, you can use console.log() to display JavaScript values in the debugger window:-
+(the debugger statment) creates breakpoint where js will pause and let you look around.
+
+========
+Error Handling:
+
 
 
 
