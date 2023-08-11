@@ -98,6 +98,10 @@ If your browser supports debugging, you can use console.log() to display JavaScr
 Error Handling: Try...Catch
 The try statement defines a code block to run (to try).
 
+Errors Will Happen!
+When executing JavaScript code, different errors can occur.
+
+Errors can be coding errors made by the programmer, errors due to wrong input, and other unforeseeable things.
 
 
 
