@@ -95,8 +95,8 @@ If your browser supports debugging, you can use console.log() to display JavaScr
 (the debugger statment) creates breakpoint where js will pause and let you look around.
 
 ========
-Error Handling:
-
+Error Handling: Try...Catch
+The try statement defines a code block to run (to try).
 
 
 
