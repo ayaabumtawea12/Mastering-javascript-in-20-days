@@ -75,7 +75,22 @@ return message;
  await fetch("url");
 ===================================
 ***Modules:-
+ module.js//file name
  
+ let x="aya"
+ export {x};
+
+anothwr file 
+
+import {x} from './module.js';
+x;=>aya
+ 
+
+================================
+DEBUGGING:-
+Errors can (will) happen, every time you write some new computer code.
+all modern browsers have a built-in JavaScript debugger.
+If your browser supports debugging, you can use console.log() to display JavaScript values in the debugger window:-
 
 
 
