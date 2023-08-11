@@ -50,7 +50,44 @@ let [a,b]= "Aya Abu Mtawea".split("-");
 ["aya","abu mtawea"].join(" ");==>"aya abu mtawea"
 ["aya","abu mtawea"].reverse();==>["abu mtawea","aya"]
 =========================================
+FETCH:
+function fetch(url){
+let x=await fetch(url);
+return x.json();
+}
+////////error this not allow in js
 
+************
+async function fetch(url){
+let x=await fetch(url);
+return x.json();
+}//////this tell js to expect  to await async operations inside the function. 
+ ///true 
+ fetch("url");
+==========================================================
+async function fetch(url){
+let response=await fetch(url);
+let body= response.json();
+let {message}=body;
+return message;
+}//////this tell js to expect  to await async operations inside the function. 
+ ///true 
+ await fetch("url");
+===================================
+***Modules:-
+ 
+
+
+
+
+
+
+
+
+
+
+
+=========================================
 
 
 
