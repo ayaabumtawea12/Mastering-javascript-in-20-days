@@ -121,15 +121,10 @@ while(x.length<5){
 x.push(Math.random());
 }
 ================================
-
-
-
-
-
-
-
-
-
+settimeout: async code 
+code that take a long time.
+settimeout(()=> conole.log("time"),1000); //tiis code execute after 1s.
+=============================
 ===========================================================
 Q1:
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators
