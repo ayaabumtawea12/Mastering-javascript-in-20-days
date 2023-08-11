@@ -37,6 +37,17 @@ let [one, ...others]=[1,2,3,4];
 one=>1
 others=>[2,3,4]
 
+note:****************************************
+split()////return array
+"Aya Abu Mtawea".split("");==>["Aya","Abu","Mtawea"];
+let [first,second,thired]="Aya Abu Mtawea".split("");
+
+first;=>"Aya"
+
+***** "Aya Abu Mtawea".split("-");==>["Aya Abu Mtawea"];
+=========================================
+
+
 
 
 
