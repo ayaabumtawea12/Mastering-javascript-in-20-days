@@ -115,15 +115,15 @@ console.log(asyncRes);
 Question 2: Call Stack and Recursion
 Write a JavaScript function called sumRange that calculates the sum of all integers in a given range. The function should use recursion to handle the calculation and demonstrate understanding of the call stack.
 
-function recurSum(n)
+function sumRange(n)
 {
     if (n <= 1)
         return n;
-    return n + recurSum(n - 1);
+    return n + sumRange(n - 1);
 }
   
 let n = 5;
-console.log(recurSum(n));
+console.log(sumRange(n));
 
 
 
