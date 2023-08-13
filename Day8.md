@@ -9,7 +9,7 @@ function foo() {
     return inner;
 }
 let get_func_inner = foo();//nested function scope
- 
-console.log(get_func_inner());
+ console.log(get_func_inner());
+
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/2e894db3-59e0-458d-8bd7-b5aac4e5bd76)
 ===========================================================
