@@ -122,7 +122,7 @@ function sumRange(n)
     return n + sumRange(n - 1);
 }
   
-let n = 5;
+let n = 6;
 console.log(sumRange(n));
 
 
