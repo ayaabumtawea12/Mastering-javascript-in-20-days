@@ -74,6 +74,36 @@ let sqnum=arr.filter(num=>{
 const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2]);
 console.log(squaredIntegers);
 ================================================================
+Q2:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs
+// Only change code below this line
+var wisc="Winter Is Coming";
+
+function urlSlug(title) {
+return title
+.slice()
+.toLowerCase()
+.split(" ")
+.filter(word => {
+  if(word != "")
+  {
+    return word;
+  }
+}).join("-")
+}
+
+// Only change code above this line
+var tit=urlSlug(wisc);
+console.log(tit)
+=======================================
+Q3:
+https://github.com/orjwan-alrajaby/gsg-QA-Nablus-training-2023/blob/main/learning-sprint-1/week2%20-%20javaScript-the-hard-parts-v2/day%201/tasks.md
+Question 1: Functions and Callbacks
+Implement a JavaScript function called mapAsync that takes an array and a callback function. The function should map each element of the array to a new value using the callback function asynchronously.
+The final result should be returned as a Promise.
+
+
+
 
 
 
