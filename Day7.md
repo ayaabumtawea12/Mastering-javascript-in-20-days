@@ -1,4 +1,4 @@
-call stack in js:-
+## call stack in js:-
 used by JavaScript to keep track of multiple function calls. It is like a real stack in data structures where data can be pushed and popped and follows the Last In First Out (LIFO) principle.
 
 function f1() {
@@ -14,7 +14,7 @@ f2();
 ////"Hi by f1!"
 "Hi by f2!"
 =================================================
-Repeating functionality:-
+## Repeating functionality:-
 function mularray(let arr[]){
 let out=[];
 for(let i=0;i<arr.length;i++){
@@ -26,7 +26,7 @@ return out;
 let myarr=[1,2,3];
 let result=mularray(myarr);
 ============================================
-Higher Orders Functions:-
+## Higher Orders Functions:-
 are functions that perform operations on other functions.
 A higher order function is a function that takes one or more functions as arguments, or returns a function as its result.
 
