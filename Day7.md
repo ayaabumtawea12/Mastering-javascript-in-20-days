@@ -28,6 +28,7 @@ let result=mularray(myarr);
 ============================================
 Higher Orders Functions:-
 are functions that perform operations on other functions.
+A higher order function is a function that takes one or more functions as arguments, or returns a function as its result.
 
 const numbers = [1, 2, 3, 4, 5];
 
@@ -41,9 +42,23 @@ addOne(numbers);
 The function addOne() accepts an array, adds one to each number in the array, and displays it in the console. The original values remain unchanged in the array, but the function is doing something for each value.
 
 ==================================================
+// Callback function, passed as a parameter in the higher order function
+function callbackFunction(){
+    console.log('I am  a callback function');
+}
+
+// higher order function
+function higherOrderFunction(func){
+    console.log('I am higher order function')
+    func()
+}
+
+higherOrderFunction(callbackFunction);
 
 
-
+=================================================
+Q1:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem
 
 
 
