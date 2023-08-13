@@ -102,7 +102,16 @@ Question 1: Functions and Callbacks
 Implement a JavaScript function called mapAsync that takes an array and a callback function. The function should map each element of the array to a new value using the callback function asynchronously.
 The final result should be returned as a Promise.
 
+const array = [1, 2, 3];
 
+const asyncRes = await Promise.all(array.map(async (i) => {
+	await sleep(10);
+	return i;
+}));
+
+console.log(asyncRes);
+
+================================
 
 
 
