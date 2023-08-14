@@ -29,4 +29,5 @@ myFunction is passed to setTimeout() as an argument.
 
 3000 is the number of milliseconds before time-out, so myFunction() will be called after 3 seconds.
 =========================================================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5818886e-e1be-4de7-ae19-6fdd1df8a899)
 
