@@ -40,7 +40,12 @@ let myPromise = new Promise(function(myResolve, myReject) {
 myPromise.then(function(value) {
   document.getElementById("demo").innerHTML = value;
 })
-=================================
+==================================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d99f0eec-b306-479a-a8ed-4caf52167bcb)
+==================================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b34b8cea-3098-4e27-a8e0-00b05cd5e9f6)
+==================================
+
 
 
 
