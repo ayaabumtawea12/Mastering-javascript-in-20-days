@@ -26,3 +26,32 @@ function mySecond() {
 
 myFirst();
 mySecond();
+===============================
+## Promises:-
+"Producing code" is code that can take some time.
+"Consuming code" is code that must wait for the result.
+A Promise is a JavaScript object that links producing code and consuming code
+A JavaScript Promise object contains both the producing code and calls to the consuming code.
+
+let myPromise = new Promise(function(myResolve, myReject) {
+  setTimeout(function() { myResolve("I love You !!"); }, 3000);
+});
+
+myPromise.then(function(value) {
+  document.getElementById("demo").innerHTML = value;
+})
+=================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
