@@ -90,8 +90,52 @@ const task1 = () => new Promise((resolve) => {
   });
 
 =============================================================================
+## Question 2:
+You are given a function called executeInParallelWithPromises, which takes an array of APIs (represented by objects).
 
+Your task is to write code that fetches the data of each API in parallel using promises. In Parallel means that the api which resolves first, returns its value first, regardless of the execution order.
 
+The output of the executeInParallelWithPromises function should be an array containing the results of each API's execution.
+
+Each result should be an object with three keys: apiName, apiUrl, and apiData..
+
+##solution:-
+const apis = [
+  {
+    apiName: "products", 
+    apiUrl: "https://dummyjson.com/products",
+  }, 
+  {
+    apiName: "users", 
+    apiUrl: "https://dummyjson.com/users",
+  }, 
+  {
+    apiName: "posts", 
+    apiUrl: "https://dummyjson.com/posts",
+  }, 
+  {
+    apiName: "comments", 
+    apiUrl: "https://dummyjson.com/comments",
+  }
+];
+
+const executeInParallelWithPromises = (apis) => {
+    const promises = apis.map(api => {
+        return fetch(api.apiUrl) .then(response => { response.json() }) .then(data => {
+         return {
+          apiName: api.apiName,
+          apiUrl: api.apiUrl,
+          apiData: data
+                }
+            })
+    })
+
+    return Promise.all(promises)
+}
+
+executeInParallelWithPromises(apis)
+    .then(data=>console.log(data))
+    .catch(error => console.log(error))
 
 
 
