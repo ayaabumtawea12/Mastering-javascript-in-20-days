@@ -88,10 +88,20 @@ The this keyword refers to different objects depending on how it is used:
 4-In a function, in strict mode, this is undefined.
 5-In an event, this refers to the element that received the event.
 6-Methods like call(), apply(), and bind() can refer this to any object.
+
+**this is not a variable. It is a keyword. You cannot change the value of this.
 ============================
 
-
-
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/edb9fca9-5f74-463b-92e6-f66051c0665f)
+=============================
+## New keyword:-
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/fd41b5e7-6d55-4b50-8b26-31f00a177177)
+=======================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/6543ac2f-e6fa-49d7-a53d-b05582cd6b4b)
+==============================
+## classes:-
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/cad0879c-8dc4-4d2c-92ce-1b69ffde26b2)
+==============================
 
 
 
