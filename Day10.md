@@ -26,8 +26,27 @@ console.log("pass");
 console.log(student.name);
 }
 ==========================
+## factory functions in JavaScript:-
+-The Factory Function is similar to constructor functions/class functions, but instead of using new to create an object, factory functions simply creates an object and returns it.
+
+-they do not require the use of the ‘this‘ keyword for inner values or the use of the ‘new‘ keyword when instantiating new objects
 
 
-
-
+// Function creating new objects 
+// without use of 'new' keyword
+    function createRobot(name) {
+        return {
+            name: name,
+            talk: function () {
+                console.log('My name is ' 
+                + name + ', the robot.');
+            }
+        };
+    }
+  
+    //Create a robot with name Chitti
+    const robo1 = createRobot('Chitti');
+  
+    robo1.talk();
+===========================================================
 
