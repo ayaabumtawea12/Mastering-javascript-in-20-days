@@ -102,7 +102,8 @@ The this keyword refers to different objects depending on how it is used:
 ## classes:-
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/cad0879c-8dc4-4d2c-92ce-1b69ffde26b2)
 ==============================
-
+## Question 1:-
+https://github.com/orjwan-alrajaby/gsg-QA-Nablus-training-2023/blob/main/learning-sprint-1/week2%20-%20javaScript-the-hard-parts-v2/day%204/task.md
 
 
 
