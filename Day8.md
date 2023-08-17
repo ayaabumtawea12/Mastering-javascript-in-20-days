@@ -134,8 +134,61 @@ const executeInParallelWithPromises = (apis) => {
 }
 
 executeInParallelWithPromises(apis)
-    .then(data=>console.log(data))
-    .catch(error => console.log(error))
+.then(data=>console.log(data))
+.catch(error => console.log(error));
+=============================================
+## Question 3:-
+ou are given a function called executeInSequenceWithPromises, which takes an array of APIs (represented by objects).
+
+Your task is to write code that fetches the data of each API sequentially (one after the other) using promises.
+
+In Sequence means that the api which executes first, returns its value first.
+
+The output of the executeInSequenceWithPromises function should be an array containing the results of each API's execution.
+
+Each result should be an object with three keys: apiName, apiUrl, and apiData.
+
+const apis = [
+  {
+    apiName: "products", 
+    apiUrl: "https://dummyjson.com/products",
+  }, 
+  {
+    apiName: "users", 
+    apiUrl: "https://dummyjson.com/users",
+  }, 
+  {
+    apiName: "posts", 
+    apiUrl: "https://dummyjson.com/posts",
+  }, 
+  {
+    apiName: "comments", 
+    apiUrl: "https://dummyjson.com/comments",
+  }
+]
+
+//modify and write your code here
+const executeInSequenceWithPromises = async (apis) => {
+    const results = [];
+    for (let api of apis){
+    const respose = await fetch(api.apiUrl)
+    const data = await respose.json();
+    results.push({
+    apiName: api.apiName,
+    apiUrl: api.apiUrl,
+    apiData: data
+    })
+    }
+    return results;
+}
+
+executeInSequenceWithPromises(apis)
+.then(results=>{console.log(results)
+})
+.catch(error =>{
+console.log(error)
+})
+
 
 
 
