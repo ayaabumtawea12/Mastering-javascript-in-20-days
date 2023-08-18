@@ -101,6 +101,16 @@ The this keyword refers to different objects depending on how it is used:
 ==============================
 ## classes:-
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/cad0879c-8dc4-4d2c-92ce-1b69ffde26b2)
+******note 
+function Bird(name) {
+  this.name = name;
+}
+let duck = new Bird("Donald");
+duck inherits its prototype from the Bird constructor function. You can show this relationship with the isPrototypeOf method:
+
+Bird.prototype.isPrototypeOf(duck);
+This would return true.
+
 ==============================
 ## Question 1:-
 ## Object Oriented Programming
