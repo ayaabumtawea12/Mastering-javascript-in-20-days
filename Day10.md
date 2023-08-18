@@ -201,6 +201,7 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 24-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally
 25-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife
 26-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4660a8df-dfeb-4d27-a58c-52dbc7d12774)
 
 
 
