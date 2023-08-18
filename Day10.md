@@ -157,6 +157,16 @@ this.getWeight = function() {
   };
 
 }
+====================
+## important things
+A common pattern in JavaScript is to execute a function as soon as it is declared:
+(function () {
+  console.log("A cozy nest is ready");
+})();//This is an anonymous function expression that executes right away--This pattern is known as an immediately invoked function expression or IIFE. function without name.
+===================
+
+
+
 
 ==============================
 ## Question 1:-
@@ -189,7 +199,8 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 22-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods
 23-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects
 24-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally
-25-
+25-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife
+26-
 
 
 
