@@ -148,6 +148,15 @@ Bird.prototype.fly = function() { return "I am flying!"; };
 function Penguin() { }
 Penguin.prototype = Object.create(Bird.prototype);
 Penguin.prototype.constructor = Penguin;
+===================
+function Bird() {
+let weight = 15;//private 
+
+this.getWeight = function() { 
+    return weight;
+  };
+
+}
 
 ==============================
 ## Question 1:-
@@ -179,7 +188,8 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 21-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance
 22-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods
 23-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects
-24-
+24-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally
+25-
 
 
 
