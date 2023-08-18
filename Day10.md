@@ -119,7 +119,8 @@ function Bird(name) {
 Because a prototype is an object, a prototype can have its own prototype! In this case, the prototype of Bird.prototype is Object.prototype:
 
 Object.prototype.isPrototypeOf(Bird.prototype);
-
+====
+** Bird.prototype.constructor=Bird;
 ==============
 ## Set the Child's Prototype to an Instance of the Parent
 
@@ -167,6 +168,8 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 17-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself
 18-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype
 19-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent
+*20-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property
+21-
 
 
 
