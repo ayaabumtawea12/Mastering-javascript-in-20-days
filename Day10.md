@@ -140,7 +140,14 @@ function Dog() { }
 
 let beagle = new Dog();
 Dog.prototype = Object.create(Animal.prototype);//inheritance
+====================
+function Bird() { }
 
+Bird.prototype.fly = function() { return "I am flying!"; };
+
+function Penguin() { }
+Penguin.prototype = Object.create(Bird.prototype);
+Penguin.prototype.constructor = Penguin;
 
 ==============================
 ## Question 1:-
@@ -170,7 +177,9 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 19-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent
 *20-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property
 21-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance
-22-
+22-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods
+23-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects
+24-
 
 
 
