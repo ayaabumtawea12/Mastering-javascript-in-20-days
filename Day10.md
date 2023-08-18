@@ -110,6 +110,15 @@ duck inherits its prototype from the Bird constructor function. You can show thi
 
 Bird.prototype.isPrototypeOf(duck);
 This would return true.
+/////
+All objects in JavaScript (with a few exceptions) have a prototype. Also, an object’s prototype itself is an object.
+
+function Bird(name) {
+  this.name = name;
+}
+Because a prototype is an object, a prototype can have its own prototype! In this case, the prototype of Bird.prototype is Object.prototype:
+
+Object.prototype.isPrototypeOf(Bird.prototype);
 
 ==============================
 ## Question 1:-
@@ -133,7 +142,9 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 13-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object
 14-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype
 15-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from
-16-
+16-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain
+17-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself
+18-
 
 
 
