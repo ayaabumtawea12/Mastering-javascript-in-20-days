@@ -120,6 +120,27 @@ Because a prototype is an object, a prototype can have its own prototype! In thi
 
 Object.prototype.isPrototypeOf(Bird.prototype);
 
+==============
+## Set the Child's Prototype to an Instance of the Parent
+
+function Animal() { }
+
+Animal.prototype = {
+  constructor: Animal,
+  eat: function() {
+    console.log("nom nom nom");
+  }
+};
+
+function Dog() { }
+
+// Only change code below this line
+
+
+let beagle = new Dog();
+Dog.prototype = Object.create(Animal.prototype);//inheritance
+
+
 ==============================
 ## Question 1:-
 ## Object Oriented Programming
@@ -144,7 +165,9 @@ My Profile: https://www.freecodecamp.org/Aya_Abu_Mtawea
 15-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from
 16-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain
 17-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself
-18-
+18-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype
+19-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent
+
 
 
 
