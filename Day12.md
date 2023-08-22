@@ -22,7 +22,19 @@ Output:
  ## Equality:
 
 ==  vs ===
-![Uploading Screenshot (1001).png…]()
+![Screenshot (1001)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/2dfb13a2-db61-45c2-ae1a-a04362c890c1)
+
+![Screenshot (1003)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1b6f7f3f-d38f-4c15-9efc-3ae3947aa514)
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d8c036d4-2fc1-4c1a-a580-123cdcba0388)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/843d8fda-a23f-4640-9c5f-29f2d57c40ad)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/ec6a0834-d5fd-4569-83c8-c6d99dc3a365)
+===============
+**note
+"12" == 12 ==>true
+[] == [] ==> false
+[] == ![] ==>true
+================
 
 
 
