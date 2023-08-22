@@ -34,12 +34,55 @@ Output:
 "12" == 12 ==>true
 [] == [] ==> false
 [] == ![] ==>true
+false == [] ==> true
 ================
+![Screenshot (1009)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c80c0c85-1561-4baf-b5dd-92ea86fdc0d6)
+==========
 
+let a = 1;
+let b = 1;
+console.log(a == b); // true
+let c = 10;
+let d = "10";
+console.log(c == d); // true
+ 
+ 
+const name1 = {
+    first_name: "sarah",
+};
+ 
+const name2 = {
+    first_name: "sarah",
+};
+ 
+console.log(name1 == name2); // false
 
+Output
+true
+true
+false
+===================
+let a = 1;
+let b = 1;
+ 
+console.log(a === b); // true
+let c = 10;
+let d = "10";
+ 
+console.log(c === d); // false
+ 
+const name1 = {
+    first_name: "sarah",
+};
+ 
+const name2 = {
+    first_name: "sarah",
+};
+ 
+console.log(name1 === name2); // false
 
-
-
+====================
+## TypeScript 
 
 
 
