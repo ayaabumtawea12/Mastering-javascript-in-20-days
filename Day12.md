@@ -87,10 +87,19 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 
 This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
 
+## TypeScript vs. Flow
+TypeScript allows the use of classes, modules, and interfaces and adds optional static typing to the language. These features make large-scale development easier.
 
+Flow is a static type-checker for JavaScript developed by Facebook. Unlike TypeScript, it is not a language. It is written in OCaml and provides a type-checking system. Since it is not a complete language, it can be easily integrated into JavaScript with a single comment annotation.
 
+Both TypeScript and Flow are excellent tools that enjoy widespread adoption in the web development community. Nevertheless, TypeScript is more famous than Flow and has a stronger community.
 
+![Screenshot (1013)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/51611159-cb77-413b-a36f-2a37e634c6f7)
+================================================
+## Statically typed 
+is a programming language characteristic in which variable types are explicitly declared and thus are determined at compile time. This lets the compiler decide whether a given variable can perform the actions requested from it or not.١٤‏/٠٦‏/٢٠١٨
 
+===================================================
 
 
 
