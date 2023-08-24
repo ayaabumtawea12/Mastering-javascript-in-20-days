@@ -82,15 +82,38 @@ const name2 = {
 console.log(name1 === name2); // false
 
 ====================
+**
 ## TypeScript 
-TypeScript is a syntactic superset of JavaScript which adds static typing.
+-TypeScript is a syntactic superset of JavaScript which adds static typing.
+-JavaScript is a loosely typed language.
+
+🎇 TypeScript is transpiled into JavaScript using a compiler.
+   TypeScript being converted into JavaScript means it runs anywhere that JavaScript runs!
 
 This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
+TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match.
+
+For example, TypeScript will report an error when passing a string into a function that expects a number. JavaScript will not.
+-The TypeScript compiler can be configured with which file?  tsconfig.json
+
+
+
+-There are two main ways TypeScript assigns a type:
+Explicit
+Implicit
+
+-Create a "firstName" variable, string type using Explicit type:
+let firstName:string= "Dylan";
+
+firstName=1;//error cant reassign string to number.
+
+
 
 ## TypeScript vs. Flow
 TypeScript allows the use of classes, modules, and interfaces and adds optional static typing to the language. These features make large-scale development easier.
 
-Flow is a static type-checker for JavaScript developed by Facebook. Unlike TypeScript, it is not a language. It is written in OCaml and provides a type-checking system. Since it is not a complete language, it can be easily integrated into JavaScript with a single comment annotation.
+Flow is a static type-checker for JavaScript developed by Facebook.🔊 Unlike TypeScript, it is ✨not a language. It is written in OCaml and provides a type-checking system. Since it is not a complete language, it can be easily integrated into JavaScript with a single comment annotation.
+-designed to quickly find errors in JavaScript.
 
 Both TypeScript and Flow are excellent tools that enjoy widespread adoption in the web development community. Nevertheless, TypeScript is more famous than Flow and has a stronger community.
 
