@@ -298,7 +298,7 @@ function outer2() {
   inner2();
 }
 
-outer2(); // Output: 20
+outer2(); Output: 20
 Reasoning for example 2's output:
 lexical scope ... child  uses the value of x not X in the parent...
 ======================
