@@ -114,6 +114,10 @@ console.log(materials.map((material) => material.length));
 Dynamic Scope
 In dynamic scoping, you search in the local function first, then you search in the function that called the local function, then you search in the function that called that function, and so on, up the call-stack.
 ## 
+==
+
+
+
 ![Screenshot (1015)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/614f221a-702d-48fe-96fc-63b301aba60d)
 =================================
 
