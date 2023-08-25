@@ -299,8 +299,11 @@ function outer2() {
 }
 
 outer2(); Output: 20
+
 Reasoning for example 2's output:
-lexical scope ... child  uses the value of x not X in the parent...
+
+lexical scope 
+... child  uses the value of x not X in the parent...
 ======================
 
 
