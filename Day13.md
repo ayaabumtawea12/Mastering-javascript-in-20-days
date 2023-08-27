@@ -23,7 +23,8 @@ Global scope
 // x CAN be used here
  
 
-🎆 ## Lexical scope 
+
+## Lexical scope 
 is the ability for a function scope to access variables from the parent scope. We call the child function to be lexically bound by that of the parent function.
 ================================
 ✨Strict Mode
@@ -150,7 +151,117 @@ print();
 
 
 ![Screenshot (1015)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/614f221a-702d-48fe-96fc-63b301aba60d)
-=================================
+========================================================
+## Function Scope
+JavaScript has function scope: Each function creates a new scope.
+
+Variables defined inside a function are not accessible (visible) from outside the function.
+
+Variables declared with var, let and const are quite similar when declared inside a function.
+
+Thfunction myFunction() {
+  var carName = "Volvo";   // Function Scope
+}
+===================================
+
+## IIFE (Immediately Invoked Function Expression)🎇
+
+A JavaScript immediately invoked function expression is a function defined as an expression and executed immediately after creation.
+Ex:
+(function(a,b){
+        return a + b;
+})(10,20);
+========================================
+## Block Scoping
+-var:
+Variables declared with the var keyword can NOT have block scope.
+
+Variables declared inside a { } block can be accessed from outside the block.
+
+-let and const.
+Variables declared inside a { } block cannot be accessed from outside the block.
+
+{
+  let x = 2;
+}
+// x can NOT be used here
+===================================
+
+let x=3;
+x= 4 //allow
+
+const x=2;
+x=5;type errr
+
+varx=3;
+x=4;allow
+
+const x=[1,3]
+x[1]=8;//allow
+
+=======================================
+## Hoisting:👀
+
+-In JavaScript, a variable can be declared after it has been used.
+
+-In other words; a variable can be used before it has been declared.
+
+var x; // Declare x
+x = 5; // Assign 5 to x
+
+Using a let variable before it is declared will result in a ReferenceError.
+
+carName = "Volvo"; //This will result in a ReferenceError:
+let carName; 
+
+-Using a const variable before it is declared, is a syntax error, so the code will simply not run.
+carName = "Volvo";
+const carName;
+
+
+====================================================
+
+function fun(){
+        console.log(name);
+        let name = 'Mukul Latiyan';
+    }
+    fun();//ReferenceError
+    
+================================
+
+*****Function is hoisted:👀
+fun(); // Calling before declaration
+     
+    function fun(){ // Declaring
+        console.log("Function is hoisted");
+  }
+================================
+
+## note:-👀
+
+ if a function is used as an expression and we try to access it before the assignment an error will occur as only declarations are hoisted.
+ fun() // Calling the expression
+ 
+let fun = () =>{ // Declaring
+    let name = 'Mukul Latiyan';
+    console.log(name);
+}
+
+================================
+
+
+
+
+
+
+
+
+
+
+
+
+===================================
+
 ## QUESTION #1
 Given the following promisesArray, convert the array into an object using the convertToObj function.
 
