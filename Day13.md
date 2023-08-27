@@ -109,13 +109,44 @@ const materials = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium'];
 console.log(materials.map((material) => material.length));
 // Expected output: Array [8, 6, 7, 9]
 ===================================================================
-✨lexical   Dynamic scope:
+✨lexical  vs Dynamic scope:
 
-Dynamic Scope
+## lexical scope:-
+(Static Scoping)
+s the ability for a function scope to access variables from the parent scope. We call the child function to be lexically bound by that of the parent function. The diagram below outlines the supposed hierarchy that the lexical scope maintains in JavaScript.
+
+var a = 10
+var func = function (){
+var b = 20;
+    console.log("a and b is accessible (outer):", a, b);
+    var innerFunc= function (){
+        var c = 30;
+        console.log("a and b and c is accessible (inner):", a, b, c);
+    }
+    innerFunc();
+    return;
+}
+func();
+console.log("only a is accessible (global):", a);
+
+
+![Screenshot (1018)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1f1ff149-5668-4834-b15b-43a78c42a635)
+
+## Dynamic Scope
 In dynamic scoping, you search in the local function first, then you search in the function that called the local function, then you search in the function that called that function, and so on, up the call-stack.
-## 
-==
 
+let x=10;
+
+function foo(){
+console.log(x)
+}
+
+function print(){
+let x=20;
+foo();
+}
+
+print();
 
 
 ![Screenshot (1015)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/614f221a-702d-48fe-96fc-63b301aba60d)
