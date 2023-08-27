@@ -227,9 +227,10 @@ function fun(){
     }
     fun();//ReferenceError
     
-================================
+=============================
 
-*****Function is hoisted:👀
+## Function is hoisted:👀
+
 fun(); // Calling before declaration
      
     function fun(){ // Declaring
