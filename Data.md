@@ -27,3 +27,22 @@ and to make request
 ![Screenshot (1025)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/ccca4aa4-1517-44b9-890f-cdfe97619355)
 ![Screenshot (1024)](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/63820619-7ffd-4d51-b106-81fe6288c2df)
 =========================
+npm install cypress --save-dev
+npx cypress open
+tsc --init
+npx -p typescript tsc --init
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
