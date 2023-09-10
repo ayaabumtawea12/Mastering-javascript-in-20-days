@@ -74,6 +74,11 @@ WHERE condition;
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a5d4f9c7-1499-4f79-a173-f394f2f2b127)
 
 =================
+## SQL flavors
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d18c6a9b-d3f5-4926-a0a4-2379867924ed)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c4b5c9c7-1b05-4853-9825-e9d864c6369b)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/525d2fea-de9b-405e-810e-95a8951c6cb2)
+
 
 
 
