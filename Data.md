@@ -31,10 +31,16 @@ npm install cypress --save-dev
 npx cypress open
 tsc --init
 npx -p typescript tsc --init
+================================
+## section 2
+## Introducing queries
 
-
-
-
+## keyword:
+/*
+select column_name,c2
+from
+table_name;
+*/
 
 
 
