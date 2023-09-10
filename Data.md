@@ -48,14 +48,15 @@ table_name;
 ## Aliasing (As)
 to rename colums;
 =================
-SELECT name As first_name ,last_name
+SELECT  first_name As name ,last_name
 FROM 
 employees;
 ==================
 ## Distnict:-
 without repeat row.
+You've learned that the DISTINCT keyword can be used to return unique values in a field. 
 
-SELECT DISTINICT  first_name ,last_name
+SELECT DISTINCT  first_name ,last_name
 FROM 
 employees;
 =======================
