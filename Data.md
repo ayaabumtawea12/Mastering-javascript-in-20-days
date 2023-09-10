@@ -36,11 +36,9 @@ npx -p typescript tsc --init
 ## Introducing queries
 
 ## keyword:
- ==========
-select column_name,c2
-==
-from
-=====
+==========
+SELECT column_name,c2
+From
 table_name;
 ============================
 
