@@ -38,7 +38,7 @@ npx -p typescript tsc --init
 ## keyword:
 ==========
 SELECT column_name,c2
-From
+FROM
 table_name;
 ============================
 
