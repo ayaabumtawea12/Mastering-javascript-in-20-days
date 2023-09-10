@@ -114,8 +114,8 @@ EXAMPLE:
 ========
 important
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/736b3eee-b3cd-40bc-8697-aa9edd8c9603)
-
-========
+===========
+[[PKKKP
 
 
 
