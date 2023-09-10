@@ -94,10 +94,9 @@ Query execution:
 order of execution
 Drag the SQL keywords into the order that they will be executed in (not the written order) from first (top) to last (bottom).
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8835a616-d38c-421e-b35e-29a5e053735a)
-
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/949adb7c-a859-438f-be93-447f64ca1ad9)
 
-
+====================
 
 
 
