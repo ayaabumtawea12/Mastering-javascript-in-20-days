@@ -78,8 +78,18 @@ WHERE condition;
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d18c6a9b-d3f5-4926-a0a4-2379867924ed)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c4b5c9c7-1b05-4853-9825-e9d864c6369b)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/525d2fea-de9b-405e-810e-95a8951c6cb2)
+==================
+## Count:-
+how records in field.
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0c5bec18-429c-4ca8-84d6-792f50d74b97)
 
+SELECT COUNT(FIRS_NAME)
+FROM 
+COURSES;
 
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4d611f8f-2725-4774-bbb4-e00982861a52)
+
+===============================
 
 
 
