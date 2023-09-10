@@ -45,9 +45,42 @@ table_name;
 ===========================
 
 ## Writing queries
-## Aliasing
+## Aliasing (As)
 to rename colums;
 =================
+SELECT name As first_name ,last_name
+FROM 
+employees;
+==================
+## Distnict:-
+without repeat row.
+
+SELECT DISTINICT  first_name ,last_name
+FROM 
+employees;
+=======================
+## VIEWS
+virtual table
+A view contains rows and columns, just like a real table. The fields in a view are fields from one or more real tables in the database.
+
+A view is created with the CREATE VIEW statement. 
+
+CREATE VIEW view_name AS
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a5d4f9c7-1499-4f79-a173-f394f2f2b127)
+
+=================
+
+
+
+
+
+
+
+
 
 
 
