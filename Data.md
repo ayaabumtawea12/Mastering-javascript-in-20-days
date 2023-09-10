@@ -90,18 +90,32 @@ COURSES;
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4d611f8f-2725-4774-bbb4-e00982861a52)
 
 ===============================
-Query execution:
+## Query execution:
 order of execution
 Drag the SQL keywords into the order that they will be executed in (not the written order) from first (top) to last (bottom).
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8835a616-d38c-421e-b35e-29a5e053735a)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/949adb7c-a859-438f-be93-447f64ca1ad9)
 
 ====================
+## sql styles:-
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/570e7266-7295-424c-97fc-6c1bc10b1299)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/ed98c7f4-40b8-4f16-b013-aee075718404)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a9b7e174-8125-4c9f-a6d7-8d59baefa256)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9a2fb4ac-658d-4b67-b3eb-68b8ffe24f17)
 
+=====================
+## Filtering Records
+Filtering numbers
+WHERE
+EXAMPLE:
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8a698e95-c423-4d39-908f-c18509e942d5)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a34e802a-a75d-4c16-9471-85dc006b2493)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3e8426f0-4a4f-4db9-ac0d-86e718c39164)
+========
+important
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/736b3eee-b3cd-40bc-8697-aa9edd8c9603)
 
-
-
-
+========
 
 
 
