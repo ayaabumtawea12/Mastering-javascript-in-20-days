@@ -115,7 +115,14 @@ EXAMPLE:
 important
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/736b3eee-b3cd-40bc-8697-aa9edd8c9603)
 ===========
-[[PKKKP
+## Multiple criteria
+OR,AND,BETWEEN
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c5ebdb56-6ce0-4fee-afa8-7239af50802c)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/cbadb4c8-4e75-492c-a0b3-4e46b80dee66)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/83514065-56a7-4825-811b-51a1604ead68)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d0394721-d576-4f3b-a799-f5cf48918b3a)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c095d4c0-54e8-436b-973d-fc2f5abe75c1)
+
 
 
 
