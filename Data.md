@@ -41,8 +41,13 @@ SELECT column_name,c2
 FROM
 table_name;
 ============================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a1da4fdd-b81d-49d4-ac58-bb0bc91c79d7)
+===========================
 
-
+## Writing queries
+## Aliasing
+to rename colums;
+=================
 
 
 
