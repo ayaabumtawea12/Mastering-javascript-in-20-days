@@ -127,6 +127,10 @@ OR,AND,BETWEEN
 ## Filtering text
 
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d4c6b7c1-94ac-41a7-a557-d534db6fa501)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5fb5a7de-8d8b-402d-876f-68c26bf25a2f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4c99d8fa-ddbd-4a78-9408-63f0de5ae459)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5dab9b88-d05f-4311-9e35-f1099d1dd267)
+
 
 
 
