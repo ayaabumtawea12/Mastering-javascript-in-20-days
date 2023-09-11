@@ -138,9 +138,22 @@ OR,AND,BETWEEN
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b939ad04-a1c0-4756-8362-6e3c0dee18af)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7d214540-cca9-47a1-aa93-b31688b9041e)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/add2950b-8c69-4582-b052-fe6dc4ea682c)
+===============================
+## Summarizing data
+## AGGREGATE :
+
+SUM,MAX,MIN,AVG,COUNT
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e51d85b2-0341-4cee-886d-85a68b237304)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e9761ca1-e77d-4218-9a45-e473b603e6ec)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/312f3e25-8748-4da3-b721-19bc874931a4)
 
 
-
+=================================
+## Summarizing subsets
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9f4ff81e-537c-42ae-9203-7de6ddc5dbb4)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d7df50aa-64d4-419b-850e-3628743e5f07)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0de10dc8-db09-4072-b84e-0a66eee03273)
 
 
 
