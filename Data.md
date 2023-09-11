@@ -154,6 +154,13 @@ SUM,MAX,MIN,AVG,COUNT
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9f4ff81e-537c-42ae-9203-7de6ddc5dbb4)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d7df50aa-64d4-419b-850e-3628743e5f07)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0de10dc8-db09-4072-b84e-0a66eee03273)
+====================================
+## Aliasing and arithmetic
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0beee63f-848f-46c5-8e06-0c6d7b082128)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b942e96c-ead4-429d-9880-6588fd997fb8)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/99415c38-d422-43b9-a562-0ea9ff382d9d)
+========================================
+## Sorting results
 
 
 
