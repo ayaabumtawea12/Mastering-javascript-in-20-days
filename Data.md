@@ -130,6 +130,14 @@ OR,AND,BETWEEN
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5fb5a7de-8d8b-402d-876f-68c26bf25a2f)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4c99d8fa-ddbd-4a78-9408-63f0de5ae459)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5dab9b88-d05f-4311-9e35-f1099d1dd267)
+=================================
+## NULL values
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/18b2f11c-bc20-4b72-8d0a-48dbc0e8645f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/07aac74a-aef4-46e1-ae70-1d34c35dfdb7)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b939ad04-a1c0-4756-8362-6e3c0dee18af)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7d214540-cca9-47a1-aa93-b31688b9041e)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/add2950b-8c69-4582-b052-fe6dc4ea682c)
 
 
 
