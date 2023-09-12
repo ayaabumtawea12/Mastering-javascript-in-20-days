@@ -166,7 +166,12 @@ ORDER BY==>ascending order by default. (A-Z).  alphabetically
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/383e51e2-a72b-4b2e-9f17-4ba385e33f8e)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/34e1ede7-2cfc-42a6-91b5-6a804366dec3)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/112957c2-d4fd-4589-9341-5dbe7c40c087)
-
+===========================================================
+## Grouping data
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3455677c-6455-4939-a01e-23510d668f4d)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/eacbd3a1-e76c-445d-8860-35610d99a1c4)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9fd78b7a-fcaa-413e-b261-7049a870ec80)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/80b275e8-c496-4cdd-9b8f-61b28e9d0387)
 
 
 
