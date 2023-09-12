@@ -172,7 +172,13 @@ ORDER BY==>ascending order by default. (A-Z).  alphabetically
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/eacbd3a1-e76c-445d-8860-35610d99a1c4)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9fd78b7a-fcaa-413e-b261-7049a870ec80)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/80b275e8-c496-4cdd-9b8f-61b28e9d0387)
-
+===================================================
+## Filtering grouped data
+HAVING ==== WHERE
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4430ad5c-05d3-45fd-9ac9-be12bb019daf)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e8473dc7-3cf0-4e2b-95b1-2faa26c6a425)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3c8b4b0d-73ba-4e2e-bce7-9d26a316b0f5)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5f104f08-0ee6-4727-9c59-38a0c7586d29)
 
 
 
