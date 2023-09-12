@@ -160,7 +160,17 @@ SUM,MAX,MIN,AVG,COUNT
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b942e96c-ead4-429d-9880-6588fd997fb8)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/99415c38-d422-43b9-a562-0ea9ff382d9d)
 ========================================
-## Sorting results
+## Sorting results:
+ORDER BY==>ascending order by default. (A-Z).
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/2fa21726-d0c1-4178-addc-d7ced5d0a192)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/383e51e2-a72b-4b2e-9f17-4ba385e33f8e)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/34e1ede7-2cfc-42a6-91b5-6a804366dec3)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/112957c2-d4fd-4589-9341-5dbe7c40c087)
+
+
+
+
+
 
 
 
