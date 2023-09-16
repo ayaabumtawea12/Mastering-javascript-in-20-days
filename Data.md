@@ -197,6 +197,14 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/166f9481-8afe-4601-a9e6-1d7890e8361f)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/683db396-76c8-4175-839d-e3c892bf95d1)
 
+==================================
+## Multiple joins
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/68c21337-2b1b-446e-a85b-7ae2cceb2833)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b6a8ae00-fc48-41bb-932c-1b419e9e12b4)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8bcc877b-9efe-4078-b6ac-8daf2861dc40)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/dcef1b2b-58a6-4003-ac29-af53e2d4ce39)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e4d54f72-a34b-478f-8f22-9f3e52ff9507)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b1f25dc7-c935-47ad-a52a-5c1ecec4dd1a)
 
 
 
