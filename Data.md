@@ -191,6 +191,11 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7514cfe9-eeae-4e0f-bbfe-4f6299cb96c2)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7cacadc0-5cdf-4fa3-ab07-2de4150b2328)
 
+===============================================
+## Defining relationships
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/96910e11-bfbc-4e76-91dc-cbd5da9bf4f0)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/166f9481-8afe-4601-a9e6-1d7890e8361f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/683db396-76c8-4175-839d-e3c892bf95d1)
 
 
 
