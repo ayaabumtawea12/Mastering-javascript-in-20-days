@@ -205,6 +205,17 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/dcef1b2b-58a6-4003-ac29-af53e2d4ce39)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e4d54f72-a34b-478f-8f22-9f3e52ff9507)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b1f25dc7-c935-47ad-a52a-5c1ecec4dd1a)
+=========================================
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/dbad6241-e92c-4dac-9f3f-b297b295eb0a)
+================
+## LEFT and RIGHT JOINs
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/92a1203c-461f-404b-b01d-978ce3bc5624)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9a44a47e-234e-4d71-bdf0-97369437e96a)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d3204e77-20ff-4c3d-9efa-b0e68ec94435)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8b67fdab-0ea0-465f-bf94-6f97735ad1fd)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/aabc865b-fd17-4e78-823e-50a426834477)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8987f668-2173-41bc-8349-1b20ed2b8467)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1179187a-8b24-4917-b4be-07232c7436c9)
 
 
 
