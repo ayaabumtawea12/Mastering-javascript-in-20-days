@@ -179,6 +179,37 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e8473dc7-3cf0-4e2b-95b1-2faa26c6a425)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3c8b4b0d-73ba-4e2e-bce7-9d26a316b0f5)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5f104f08-0ee6-4727-9c59-38a0c7586d29)
+=============================================
+## The ins and outs of INNER JOIN
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/281e45f8-c265-415e-89c0-3bbe4ffdf198)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8611e1b7-361e-4377-a76d-de7ac6c74ee3)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/934bd971-38dc-4375-b34c-20713bbbe7cb)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/277c87b2-507c-48b0-8e11-a8a14520ac4f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/72f388f1-6df7-47f3-9810-bb4087f8c395)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b25aec48-322f-49ad-b175-f5fc3a4a371d)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7514cfe9-eeae-4e0f-bbfe-4f6299cb96c2)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7cacadc0-5cdf-4fa3-ab07-2de4150b2328)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
