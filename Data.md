@@ -216,15 +216,17 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/aabc865b-fd17-4e78-823e-50a426834477)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8987f668-2173-41bc-8349-1b20ed2b8467)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1179187a-8b24-4917-b4be-07232c7436c9)
+===================
+## Crossing into CROSS JOIN
 
 
-
-
-
-
-
-
-
+========================
+## Self joins
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4e4e349d-9a43-4448-ab45-b5319d5eb3d3)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9d7f604b-7650-470b-85f0-11c596c8048f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7778c886-1cbd-4643-b248-67171deb82bc)
+===================================================
+## Set theory for SQL Joins
 
 
 
