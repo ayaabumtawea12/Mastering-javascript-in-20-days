@@ -227,12 +227,14 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7778c886-1cbd-4643-b248-67171deb82bc)
 ===================================================
 ## Set theory for SQL Joins
-لا قت
+****same field in two tables and same number of fieled ,same data type.
+اﻷمر UNION فقط يوجد فرق واحد وهو أن اﻷمر UNION ALL لا يقم بحذف البيانات المكررة عكس اﻷمر UNION
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4093fd65-07fb-4b9f-9a4b-6af8fb419a5f)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d380edc6-9fed-4313-b046-db93818f9bd2)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/ed2cbdaa-afb8-4e55-a492-b6a1dae7ec31)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bd439002-cba2-4173-80f2-7c5815954878)
-ة
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8f611a1a-e147-42e8-9a86-6fbb0ebc4dc4)
+
 
 
 
