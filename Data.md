@@ -267,6 +267,11 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/70714473-5492-400a-b55c-c695fdea030c)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/aae0ab3f-304c-45c3-afbb-c978bdbb177e)
 
+====================================================================
+## Subqueries inside FROM
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/09541d08-72ff-4596-893f-f26bcb7e3867)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/05006d46-faf0-4cef-b546-eebaf30f4b01)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e683b65c-d09a-4090-8565-ecdd3bc15107)
 
 
 
