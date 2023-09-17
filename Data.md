@@ -242,6 +242,12 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4c65178a-5593-4fde-9b85-b9bbeffbc05f)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/f926930e-bf72-4151-9286-ead3c2cd0a5f)
 
+=========================================================
+## EXCEPT
+SAME FIELD 
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/aa63b103-1a5a-4526-a206-6e27e60f48da)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/afaac9f3-e56e-462e-94f6-14395d803981)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0f2ee198-4a88-42f6-92b7-65208691d9dc)
 
 
 
