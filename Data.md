@@ -234,6 +234,12 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/ed2cbdaa-afb8-4e55-a492-b6a1dae7ec31)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bd439002-cba2-4173-80f2-7c5815954878)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8f611a1a-e147-42e8-9a86-6fbb0ebc4dc4)
+====================================================
+## At the INTERSECT
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0e1644e3-8a9f-4fa2-bb12-fafabf4dd660)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1391d4b3-2643-441e-8b2f-bb862f13ca20)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4c65178a-5593-4fde-9b85-b9bbeffbc05f)
 
 
 
