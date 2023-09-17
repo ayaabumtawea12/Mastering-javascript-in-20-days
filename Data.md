@@ -240,6 +240,7 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0e1644e3-8a9f-4fa2-bb12-fafabf4dd660)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1391d4b3-2643-441e-8b2f-bb862f13ca20)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/4c65178a-5593-4fde-9b85-b9bbeffbc05f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/f926930e-bf72-4151-9286-ead3c2cd0a5f)
 
 
 
