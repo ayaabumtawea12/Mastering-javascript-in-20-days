@@ -244,11 +244,22 @@ HAVING ==== WHERE
 
 =========================================================
 ## EXCEPT
-SAME FIELD 
+((SAME FIELD ))
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/aa63b103-1a5a-4526-a206-6e27e60f48da)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/afaac9f3-e56e-462e-94f6-14395d803981)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0f2ee198-4a88-42f6-92b7-65208691d9dc)
+=========================================================
+## Subqueries
+## subquerying with semi joins and anti joins
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/fa08805c-0c8a-43f0-86cf-ea5df5772bbd)
 
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e81d0f59-faa3-42f7-b148-4acfb790ee5e)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/75330865-e122-42ef-bd85-809504bba7b4)4![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/473b5fc4-7050-49e1-9f97-2f21062c79c0)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7b1a0c3d-ec1c-4c45-8c3c-835dc8dc0f06)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/79b99922-6771-4816-969b-5cf059da7361)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a392ebbc-afbe-4a0c-bc5a-cd74530ece59)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c2975487-b422-43dd-8073-7edcbe6d496e)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/0bc375be-b038-4b07-8dec-a972b09a9e4e)
 
 
 
