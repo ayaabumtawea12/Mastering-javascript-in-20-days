@@ -273,6 +273,10 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/05006d46-faf0-4cef-b546-eebaf30f4b01)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e683b65c-d09a-4090-8565-ecdd3bc15107)
 
+======================================================================
+## We'll take the CASE
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b2ff1630-6847-402a-b8e6-a7663c9fc32c)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a7e0774b-fe47-4941-9a25-fd1df23a9b7c)
 
 
 
