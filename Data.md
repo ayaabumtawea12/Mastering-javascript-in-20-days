@@ -286,6 +286,13 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d126dd8a-a4b7-45d3-9089-33c50604e133)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c4914ece-4568-4219-a563-73d47c032a7e)
 
+## CASE WHEN with aggregate functions
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c219fba0-33f7-4e72-a076-c830340bb74d)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/f1d1de7d-8302-4a91-afb2-4698bb257918)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5d6a8d99-5a72-431d-bcea-e9d2a4009a82)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e2fe92b3-9a5a-4a44-9a66-a5646b85875e)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8898c5bc-9dba-44c1-bbbe-8f84721f5a1f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d4bb6cd3-0742-4334-8d7f-198a98349149)
 
 
 
