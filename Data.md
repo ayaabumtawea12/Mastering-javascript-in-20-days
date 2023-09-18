@@ -278,6 +278,13 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b2ff1630-6847-402a-b8e6-a7663c9fc32c)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/a7e0774b-fe47-4941-9a25-fd1df23a9b7c)
 
+## In CASE things get more complex
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7a29e44f-ac38-4b01-8ea5-96bccedab3e2)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/9a0a05b8-a3f2-4e30-8577-3c8c4423a173)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/faf3a1ea-48fb-4e0a-be82-0161d91670ea)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bb0dd131-faeb-4b05-b38d-3587c0ae7a2f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d126dd8a-a4b7-45d3-9089-33c50604e133)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c4914ece-4568-4219-a563-73d47c032a7e)
 
 
 
