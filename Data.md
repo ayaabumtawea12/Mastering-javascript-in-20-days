@@ -293,11 +293,32 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e2fe92b3-9a5a-4a44-9a66-a5646b85875e)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/8898c5bc-9dba-44c1-bbbe-8f84721f5a1f)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d4bb6cd3-0742-4334-8d7f-198a98349149)
+=============================================
+## Short and Simple Subqueries
+
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/45f848d3-c0aa-4e67-90bb-fe8e2eb127d7)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/88e45675-f8dc-4a32-b8a4-eb50a1ce72d6)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/31e43d98-5e7b-47e8-b1f6-1a85fd106cef)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/847e30e2-dbe4-4d82-a934-bd7c11bcc20d)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/6e798b81-cd27-4f99-a6ef-59db1e5dd204)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1fc49212-0365-40f9-a81b-7087af7ce037)
+==============================================
+## Subqueries in FROM
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/70a95808-8611-4efc-a6e6-2eab21828d38)
 
 
+======================================
+## Subqueries in SELECT
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/b3b8d6fd-d77b-49f9-bdda-d6a747d77fb0)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/6dc15d3b-b873-40c9-ac0f-7db4567f5378)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/dcd03bb5-43d2-4c83-9420-9336f64f2193)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c9f56470-0a09-44e3-b723-56d562e69675)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3e350362-0979-450d-ac84-7577c0b597e1)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/eeebc2af-15f9-4791-b3f3-d3d6d7c5a9c0)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c280350d-a055-4e9b-857b-ca5fa214a218)
+b![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bb4bec11-f72c-4b62-8dba-b481b7d3a0f7)
 
-
-
+====
 
 
 
