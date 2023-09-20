@@ -1,4 +1,4 @@
-## Database
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5225f3f0-3090-4ff5-bf38-853933e2160c)## Database
 store and secure 
 ==================
  
@@ -318,8 +318,38 @@ HAVING ==== WHERE
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/c280350d-a055-4e9b-857b-ca5fa214a218)
 b![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bb4bec11-f72c-4b62-8dba-b481b7d3a0f7)
 
-====
+=======================================
+## Correlated subqueries:
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d419ca25-8a57-4abf-b542-116ce1d6ec5a)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/34fa6968-869d-4b7d-bf1f-7b002ec35b4c)
 
+
+==========================
+## Nested subqueries
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/e90b247b-5723-432f-a6eb-7d19e0a73113)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3b4152e2-afaf-419e-a1e8-5b4a618c1de9)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1bfc677f-f0b4-49f1-9f1d-d688befcfa80)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/30c6c84c-616a-4182-9af1-a42c2c83340f)
+============================================
+## Common Table Expressions
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/2b525c92-9db6-4792-abbd-9e9c9b7e8edf)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/cb64a43a-61eb-4581-be5d-4bcf958df5bd)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/7bf7cbf8-9a55-4c97-b4f5-ae0f3bef93e4)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/900b40f4-cf18-4175-a06b-34389f844c5b)
+=============================================
+## Deciding on techniques to use
+=========================
+## over (window)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/2125a720-922c-4dae-a02d-b293c533a8ae)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/bcf7e62e-e99b-4a17-b591-a59684e0ef3b)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3a92b74f-a869-4cb0-9daa-eb839b3f5510)
+==================
+##  OVER with a PARTITION
+===========================
+## Sliding windows
+=========================
+## Bringing it all together
+==========================
 
 
 
