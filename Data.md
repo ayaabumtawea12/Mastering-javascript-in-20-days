@@ -350,7 +350,16 @@ b![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/asse
 =========================
 ## Bringing it all together
 ==========================
+## Pivoting
 
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d83cd1ea-b192-4856-8a5f-24d498a0b866)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5fd5c6d2-f327-4b29-b9a7-cac6f846fe45)
+====================
+## ROLLUP and CUBE
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1c7f10b8-0b06-4d90-a2e1-6772d5cb2eb8)
+========================
+## A survey of useful functions
+==============
 
 
 
