@@ -351,15 +351,75 @@ b![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/asse
 ## Bringing it all together
 ==========================
 ## Pivoting
+Pivoting(تحريك) rows to columns
 
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/d83cd1ea-b192-4856-8a5f-24d498a0b866)
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/5fd5c6d2-f327-4b29-b9a7-cac6f846fe45)
 ====================
+## Crosstab queries using PIVOT in SQL Server
+
+CREATE EXTENSION IF NOTEXISTS tablefunc;
+Enter CROSS TAB 
+
+==========================
 ## ROLLUP and CUBE
+ROLLUP in SQL is an extension of the GROUP BY clause, this SQL ROLLUP option allows the user to include extra rows that represent the subtotals, which are usually referred to as super-aggregate rows, along with a grand total row.
 ![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/1c7f10b8-0b06-4d90-a2e1-6772d5cb2eb8)
 ========================
 ## A survey of useful functions
 ==============
+
+## Database
+-- Get the column name and data type
+SELECT
+ 	column_name, 
+    data_type
+-- From the system database information schema
+FROM INFORMATION_SCHEMA.COLUMNS 
+-- For the customer table
+WHERE table_name ='customer';
+=================
+## Date and time data types
+Interval 
+====
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/deba2282-3c0b-4cae-8dc1-100d444ced94)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/02557133-bf36-44ce-b616-63157031662f)
+![image](https://github.com/ayaabumtawea12/Mastering-javascript-in-20-days/assets/120716752/3a3ddb64-9c29-4237-a7a5-a71b00c7a183)
+
+====================
+-- Select the title and special features column 
+SELECT 
+  title, 
+  special_features 
+FROM film
+-- Use the array index of the special_features column
+WHERE special_features[2] = 'Deleted Scenes';
+هاد الكود بيرع العنوان والبيشال لما يكون الاندكس التاني .......
+
+======================
+Searching an ARRAY with ANY
+SELECT 
+  title, 
+  special_features 
+FROM film 
+-- Modify the query to use the ANY function 
+WHERE 'Trailers' = ANY (special_features);
+
+As we saw in the video, PostgreSQL also provides the ability to filter results by searching for values in an ARRAY. The ANY function allows you to search for a value in any index position of an ARRAY. Here's an example.
+==============================
+Searching an ARRAY with @>
+The contains operator @> operator is alternative syntax to the ANY function and matches data in an ARRAY using the following syntax.
+
+WHERE array_name @> ARRAY['search text'] :: type[]
+SELECT 
+  title, 
+  special_features 
+FROM film 
+-- Filter where special_features contains 'Deleted Scenes'
+WHERE special_features  @> ARRAY['Deleted Scenes'];
+============================
+
+
 
 
 
